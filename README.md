@@ -5,5 +5,3 @@
 🌱 I’m currently learning Next.js, GraphQL and TailwindCSS
 
 ⚡ Fun fact: I can solve Rubik's Cube under 10s.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=wknott)](https://github.com/anuraghazra/github-readme-stats)
