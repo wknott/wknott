@@ -6,4 +6,4 @@
 
 ⚡ Fun fact: I can solve Rubik's Cube under 10s.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wknott&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=wknott)](https://github.com/anuraghazra/github-readme-stats)
